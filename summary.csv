@@ -1,0 +1,4 @@
+controller,mean_crossed,std_crossed,mean_throughput,std_throughput,mean_total_wait,std_total_wait,mean_avg_wait_per_vehicle,std_avg_wait,mean_max_queue
+Round-Robin,392.2,7.3,1.3073,0.0243,12107.0,536.0,30.86,0.97,68.8
+Heuristic,301.0,7.6,1.0033,0.0255,25605.0,887.0,85.1,3.2,71.4
+RL Agent,375.6,15.7,1.252,0.0523,13784.0,1023.0,36.76,3.18,78.0
