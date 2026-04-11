@@ -72,6 +72,18 @@ Traffic Environment → State (Queue, Waiting Time) → Multi-Agent RL (PPO/DQN)
 * ✅ Simulation + visualization
 * ✅ Performance tracking
 
+## 💻 Programming Language Used
+
+* **Python**
+
+## 🧠 Libraries & Tools Used
+
+* **NumPy** – for numerical computations
+* **Pandas** – for data handling and CSV results
+* **Matplotlib** – for plotting graphs (like the one you shared)
+* **Stable-Baselines3** – for implementing RL algorithms (PPO, DQN)
+* **OS, Time, CSV, Argparse** – for file handling and execution control
+
 ## 👩‍💻 Author
 
 **Shweta Vis**
